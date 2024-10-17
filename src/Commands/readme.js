@@ -35,9 +35,9 @@ Before you begin, ensure you have the following installed on your machine:
 # Setup 
 
 clients: {
-        token: 'YOUR_TOKEN',
-        prefix: '!',
-        embedColor: '#7f00ff',
+    token: 'YOUR_TOKEN',
+    prefix: '!',
+    embedColor: '#7f00ff',
 }
 
 # Contributing
