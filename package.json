@@ -1,0 +1,17 @@
+{
+  "name": "nyx-discord-bot-prefix",
+  "main": "index.js",
+  "author": "zenith",
+  "version": "1.0.0",
+  "repository": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "latest": "^0.2.0",
+    "moment": "^2.29.4",
+    "nyx-logger": "^3.0.0",
+    "upath": "^2.0.1"
+  }
+}
