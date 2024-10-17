@@ -1,4 +1,4 @@
-# Discord Bot Template (Prefix-Based)
+[# Discord Bot Template (Prefix-Based)
 
 A template for a Discord bot that uses a prefix-based command system. This bot is designed to be easily extensible and customizable.
 
@@ -26,12 +26,12 @@ Before you begin, ensure you have the following installed on your machine:
 
 ```js
 clients: {
-        token: 'YOUR_TOKEN',
-        prefix: '!',
-        embedColor: '#7f00ff',
+    token: 'YOUR_TOKEN',
+    prefix: '!',
+    embedColor: '#7f00ff',
 }
 ```
 
 # Contributing
 
-- Contributions are welcome! If you have suggestions or want to add new features, feel free to open an issue or submit a pull request.
+- Contributions are welcome! If you have suggestions or want to add new features, feel free to open an issue or submit a pull request.](url)
